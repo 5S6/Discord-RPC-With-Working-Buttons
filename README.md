@@ -31,3 +31,5 @@ INSTRUCTIONS:
 14.) Now you want to open terminnal and "Node"
 
 15.) Next you want to type "Node index.js"
+
+6.) Now it should be running! :D
