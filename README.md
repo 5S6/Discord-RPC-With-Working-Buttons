@@ -29,4 +29,5 @@ INSTRUCTIONS:
 13.) Now you wanna go back up to line 9 and replace "Image" with what you named your photo from the Discord Applicaiton.
 
 14.) Now you want to open terminnal and "Node"
+
 15.) Next you want to type "Node index.js"
