@@ -32,4 +32,6 @@ INSTRUCTIONS:
 
 15.) Next you want to type "Node index.js"
 
-6.) Now it should be running! :D
+16.) Now it should be running! :D
+
+Having issues? DM me on Discord: AlekDevs#1111
