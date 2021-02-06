@@ -2,7 +2,7 @@ Hello! Thank you for using this! :D
 
 INSTRUCTIONS:
 
-1.) Open Custom Discord RPC in Visual Studio Code
+1.) Open "Custom Discord RPC" in Visual Studio Code
 
 2.) Open index.js
 
