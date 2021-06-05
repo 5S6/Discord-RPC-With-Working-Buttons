@@ -34,4 +34,4 @@ INSTRUCTIONS:
 
 16.) Now it should be running! :D
 
-Having issues? DM me on Discord: AlekDevs#1111
+Having issues? DM me on Discord: AlekDevs#4540
